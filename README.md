@@ -29,4 +29,3 @@ For detailed explanation on how things work, checkout the [CLI Readme](https://g
 >  모르겠다
 
 
-## ㅎㅇ
